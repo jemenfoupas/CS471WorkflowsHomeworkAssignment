@@ -1,7 +1,7 @@
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
-- establishing traceability between commits, tasks and pull requests
+- establishing traceability between commits, tasks, and pull requests
 
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
@@ -101,7 +101,7 @@ Issue ID | Issue Type | Title
 
 
 ## Step 5 - Understand the User Story and Tasks
-Read and understand the user story `#1`, and the tasks `#2`, `#3`, `#4`, `#5` and `#6` which are all linked to user story `#1`.
+Read and understand the user story `#1`, and the tasks `#2`, `#3`, `#4`, `#5`, and `#6` which are all linked to user story `#1`.
 
 
 ## Step 6 - Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearning)
